@@ -1,28 +1,16 @@
-== README
+== Description
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It's a training project for RubyBursa.
 
-Things you may want to cover:
+The basic fuctional:
+* users can sign in or log in
+* users can make bets on events
+* users can communicate with each other via short messages
 
-* Ruby version
+My view of the situation
+* after registration, each user gets a certain amount of conventional units
+* users are betting on events
+* the fact of the event is taken from independent sources
+* for simplicity, all the events have only two possible outcomes
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The database structure: https://drive.google.com/file/d/0B1-PXmYFgBXoMk9uaXpKODhROXc/edit?usp=sharing
