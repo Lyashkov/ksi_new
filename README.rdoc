@@ -2,15 +2,16 @@
 
 It's a training project for RubyBursa.
 
-The basic fuctional:
+The basic fuctional is:
 * users can sign in or log in
 * users can make bets on events
 * users can communicate with each other via short messages
 
-My view of the situation
+My view of the situation is:
 * after registration, each user gets a certain amount of conventional units
 * users are betting on events
 * the fact of the event is taken from independent sources
 * for simplicity, all the events have only two possible outcomes
+
 
 The database structure: https://drive.google.com/file/d/0B1-PXmYFgBXoMk9uaXpKODhROXc/edit?usp=sharing
