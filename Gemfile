@@ -19,6 +19,8 @@ gem 'devise', '~> 3.2.4'
 gem 'cancan', '~> 1.6.10'
 # While it isn't necessary
 gem 'enumerize', '~> 0.8.0'
+#Simple form
+gem 'simple_form', '~> 3.0.2'
 # For download avatars
 gem 'carrierwave', '~> 0.10.0'
 # Use jquery as the JavaScript library
